@@ -1,4 +1,4 @@
-package java;
+package javasolutions;
 
 /**
  * @ClassName Multiples3or5
